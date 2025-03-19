@@ -13,5 +13,4 @@ updates:
           - "minor"
           - "patch"
     commit-message:
-      prefix: "[github-actions]"
-      include: "scope"
+      prefix: "[github-actions] "
